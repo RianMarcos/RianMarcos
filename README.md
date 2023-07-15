@@ -3,8 +3,8 @@
 
 
 - 👨‍🎓 Sou estudante de Engenharia Elétrica na Universidade Federal do Paraná
-- 🗃️ Atualmente estou trabalhando em um projeto que visa desburocratizar causas sociais
 - 📜 Sou formado em Análise e Desenvolvimento de Sistemas
+- 🗃️ Atualmente estou trabalhando em um projeto que visa desburocratizar causas sociais
 - 🤖 Faço parte da equipe de robótica da UFPR
 
 
